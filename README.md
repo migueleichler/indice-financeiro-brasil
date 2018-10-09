@@ -3,4 +3,4 @@ Projeto com informações de apoio para pessoas interessadas em Finanças e Merc
 
 # Index
 
-- [IPCA - Índice Nacional de Preços ao Consumidor Amplo](ipca.md)
+- [IPCA - Índice Nacional de Preços ao Consumidor Amplo](IPCA.md)
