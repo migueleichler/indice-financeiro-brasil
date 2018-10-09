@@ -38,7 +38,7 @@ Fonte: [https://ww2.ibge.gov.br/home/estatistica/indicadores/precos/inpc_ipca/ip
 <br /> <br />
 
 ### Investimentos atrelados ao IPCA:
-  - Tesouro IPCA
-  - Tesouro IPCA Semestral
-  - Letras de Crédito Imobiliário
-  - Letras do Crédito do Agronegócio
+  - [Tesouro IPCA](tipos_investimento/TESOURO_DIRETO.md)
+  - [Tesouro IPCA Semestral](tipos_investimento/TESOURO_DIRETO.md)
+  - [Letras de Crédito Imobiliário](tipos_investimento/LETRAS_DE_CREDITO.md)
+  - [Letras do Crédito do Agronegócio](tipos_investimento/LETRAS_DE_CREDITO.md)
