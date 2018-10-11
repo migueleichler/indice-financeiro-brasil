@@ -1,6 +1,15 @@
 # IPCA
 
-O IPCA é um indicador mensal medido pelo IBGE que se baseia em uma cesta de consumo típica das famílias com rendimentos mensais compreendidos entre 1 e 40 salários-mínimos, qualquer que seja a fonte de rendimentos, e residentes nas áreas urbanas das nove regiões brasileiras.
+### Definição:
+
+O IPCA é um indicador mensal medido pelo IBGE que se baseia em uma cesta de consumo típica das famílias com rendimentos mensais compreendidos entre 1 e 40 salários-mínimos, qualquer que seja a fonte de rendimentos, e residentes nas áreas urbanas das nove regiões brasileiras. O objetivo do IPCA é indicar a evolução dos preços no Brasil.
+<br /> <br />
+
+### Aplicações:
+
+- O IPCA é utilizado no cálculo das taxas de rentabilidade de investimentos. Um retorno abaixo da taxa IPCA significa uma rentabilidade abaixo da inflação, o que é prejuízo para o investidor.
+
+- O IPCA é um dos indicadores base para determinar a taxa básica de juros, SELIC.
 <br /> <br />
 
 ### Série Histórica dos Acumulados no Ano - IPCA
