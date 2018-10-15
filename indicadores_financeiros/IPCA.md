@@ -14,7 +14,7 @@ O IPCA é um indicador mensal medido pelo IBGE que se baseia em uma cesta de con
 
 ### Série Histórica dos Acumulados no Ano - IPCA
 
-| Ano            | Variação Acumulada no Ano (%) |
+| ANO            | VARIAÇÃO ACUMULADA NO ANO (%) |
 |:-------------- |:-----------------------------:|
 | Jul a Dez/94   | 18,57                         |
 | 1995           | 22,41                         |
@@ -44,6 +44,11 @@ O IPCA é um indicador mensal medido pelo IBGE que se baseia em uma cesta de con
 
 
 Fonte: [https://ww2.ibge.gov.br/home/estatistica/indicadores/precos/inpc_ipca/ipca-inpc_201807_3.shtm]
+<br /> <br />
+
+### Série Histórica das Variações
+| MÊS/ANO	| ÍNDICE DO MÊS (%)	| ÍNDICE ACUMULADO NO ANO (%) |	ÍNDICE ACUMULADO NOS ÚLTIMOS 6 MESES (%) |ÍNDICE ACUMULADO NOS ÚLTIMOS 12 MESES (%) |
+|:-------:|:-----------------:|:---------------------------:|:----------------------------------------:|:-----------------------------------------:|
 <br /> <br />
 
 ### Investimentos atrelados ao IPCA:
