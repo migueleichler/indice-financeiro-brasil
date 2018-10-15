@@ -55,4 +55,4 @@ Fonte: [https://ww2.ibge.gov.br/home/estatistica/indicadores/precos/inpc_ipca/ip
   - [Tesouro IPCA](tipos_investimento/TESOURO_DIRETO.md)
   - [Tesouro IPCA Semestral](tipos_investimento/TESOURO_DIRETO.md)
   - [Letras de Crédito Imobiliário](tipos_investimento/LETRAS_DE_CREDITO.md)
-  - [Letras do Crédito do Agronegócio](tipos_investimento/LETRAS_DE_CREDITO.md)
+  - [Letras de Crédito do Agronegócio](tipos_investimento/LETRAS_DE_CREDITO.md)
