@@ -3,6 +3,7 @@
 ### Definição:
 
 O IPCA - Índice de Preços ao Consumidor Médio - é um indicador mensal medido pelo IBGE que se baseia em uma cesta de consumo típica das famílias com rendimentos mensais compreendidos entre 1 e 40 salários-mínimos, qualquer que seja a fonte de rendimentos, e residentes nas áreas urbanas das nove regiões brasileiras. O objetivo do IPCA é medir a evolução dos preços no Brasil, sendo também um importante indicador do poder de compra da moeda brasileira.
+As aplicações atreladas ao IPCA calculam o lucro do montante investido de acordo com a variação da inflação no período mantendo o poder de compra do dinheiro do investidor.
 <br /> <br />
 
 ### Aplicações:
