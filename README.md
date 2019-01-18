@@ -7,7 +7,7 @@ Projeto com informações de apoio para pessoas interessadas em Finanças e Merc
 ### 1 - Indicadores Financeiros:
 - [IPCA - Índice Nacional de Preços ao Consumidor Amplo](indicadores_financeiros/IPCA.md)
 - [SELIC](indicadores_financeiros/SELIC.md)
-- [CDI](indicadores_financeiros/CDI.md)
+- [CDI - Certificado de Depósito Interbancário](indicadores_financeiros/CDI.md)
 
 ### 2 - Tipos de Investimentos:
 - [Certificado de Depósito Bancário](tipos_investimento/CDB.md)
